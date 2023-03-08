@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MhLabs.Extensions.Logging", "MhLabs.Extensions.Logging\MhLabs.Extensions.Logging.csproj", "{C97C750F-394F-45C6-BBFB-C9A67FBB405C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{CDE2DC91-4DF9-4EB5-AF4B-948BBBAD5011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C97C750F-394F-45C6-BBFB-C9A67FBB405C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97C750F-394F-45C6-BBFB-C9A67FBB405C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97C750F-394F-45C6-BBFB-C9A67FBB405C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97C750F-394F-45C6-BBFB-C9A67FBB405C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE2DC91-4DF9-4EB5-AF4B-948BBBAD5011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE2DC91-4DF9-4EB5-AF4B-948BBBAD5011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE2DC91-4DF9-4EB5-AF4B-948BBBAD5011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE2DC91-4DF9-4EB5-AF4B-948BBBAD5011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
