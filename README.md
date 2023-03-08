@@ -26,7 +26,7 @@ logger.LogInformation("Hello World");
 ```
 
 
-You can also pass configure the logger.
+You can also configure the logger.
 
 ```csharp
 var serviceProvider = new ServiceCollection()
