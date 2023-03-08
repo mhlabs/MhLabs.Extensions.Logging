@@ -20,7 +20,7 @@ var serviceProvider = new ServiceCollection()
                           .Build();
 
 
-ILogger<MyService> logger = serviceProvider.GetRequiredService<ILogger<MyService>>
+ILogger<MyService> logger = serviceProvider.GetRequiredService<ILogger<MyService>>();
 
 logger.LogInformation("Hello World");
 ```
@@ -34,7 +34,7 @@ var serviceProvider = new ServiceCollection()
                           .Build();
 
 
-ILogger<MyService> logger = serviceProvider.GetRequiredService<ILogger<MyService>>
+ILogger<MyService> logger = serviceProvider.GetRequiredService<ILogger<MyService>>);
 
 logger.LogInformation("Hello World");
 ```
